@@ -269,7 +269,7 @@ python PermanentPortfolio_english.py
 
 | 参数 | 默认值 | 说明 |
 |------|--------|------|
-| `tickers` | `['SPY','TLT','GLD','SHY']` | 投资组合标的 |
+| `tickers` | `['SPY','TLT','GLD','SHY']` | 资产 |
 | `target_weights` | `[0.25, 0.25, 0.25, 0.25]` | 各资产目标权重 |
 | `start_date` | `2010-01-01` | 回测开始日期 |
 | `end_date` | `2024-12-31` | 回测结束日期 |
